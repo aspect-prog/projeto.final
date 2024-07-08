@@ -22,6 +22,7 @@ Gera um relatório que mostra o tempo total e a quantidade de atividades para ca
 
 Sair:
 Encerra o programa.
+
 Instruções:
 
 Certifique-se de ter o Node.js instalado em seu computador.
